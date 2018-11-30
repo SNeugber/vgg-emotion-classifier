@@ -10,3 +10,5 @@ dependencies:
   - pip:
     - pysoundfile==0.9.0.post1
     - resampy==0.2.1
+    - pydub==0.23.0
+    - simpleaudio==1.0.2
